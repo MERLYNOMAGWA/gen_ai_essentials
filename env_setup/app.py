@@ -6,6 +6,6 @@ data = {
    "City": ["New York", "Los Angeles", "Chicago", "Houston"]   
 }
 
-df = pd.DataFrama(data)
+df = pd.DataFrame(data)
 print(df)
 
